@@ -1,6 +1,8 @@
 using Hangfire;
+using Hangfire.API.Model;
 using Hangfire.API.Repositories;
 using Hangfire.API.Repositories.Interfaces;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
 using System.Data;
 
