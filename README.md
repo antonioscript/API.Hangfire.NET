@@ -35,6 +35,10 @@ https://localhost:7138/hangfire
 ---
 
 ## DashBoard
+![image](https://github.com/user-attachments/assets/0319a53e-7a2f-44ac-9038-e5d87165a7b8)
+
+----
+
 ![image](https://github.com/user-attachments/assets/836274b1-b60f-4ab9-8295-51da09c56aae)
 
 ----
